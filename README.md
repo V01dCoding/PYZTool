@@ -1,5 +1,3 @@
-![print](https://user-images.githubusercontent.com/47615360/57086217-199b8580-6cd4-11e9-907f-f269e19bcabc.png)
-
 # PYZ
 Automatically install all Kali linux & development tools
 
