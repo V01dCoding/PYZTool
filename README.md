@@ -17,9 +17,6 @@ Automatically install all Kali linux & development tools
 - chmod +x /usr/bin/pyztool
 - sudo pyztool 
 
-# Video
-https://www.youtube.com/watch?v=FybyU1V7NGU
-
 # Usage
 - Typing the number of a tool will install it
 - exit : Go exit
