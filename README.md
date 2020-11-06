@@ -29,4 +29,4 @@ Before updating your system , please remove all Kali-linux repositories to avoid
 
 # I have some questions!
 
-Please visit https://github.com/the-davi-sh/PYZTool/issues
+Please visit https://github.com/the-sh/PYZTool/issues
