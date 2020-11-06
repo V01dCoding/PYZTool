@@ -950,7 +950,7 @@ a
 				esac
 			done
 		elif [ $z = 4 ]; then
-			echo ''
+			echo -e "\e[38;5;99mEnter the number corresponding to the option you want."
 		elif [ $z = "clear" ]; then
 			clear
 			a
