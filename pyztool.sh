@@ -3,7 +3,7 @@
 clear
 
 if [[ $1 = '--update'  ]]; then
-	rm $0 && wget https://raw.githubusercontent.com/THE-SH/PYZTool/master/pyztool.sh>/dev/null 2>&1
+	rm $0 && wget https://raw.githubusercontent.com/coometa/PYZTool/master/pyztool.sh>/dev/null 2>&1
 	echo [+] "$0" successfully updated!
 	exit
 fi
